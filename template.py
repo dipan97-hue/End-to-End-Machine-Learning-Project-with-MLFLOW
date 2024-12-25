@@ -5,7 +5,7 @@ import logging
 # Error Messages
 logging.basicConfig(level = logging.INFO, format ='[%(asctime)s] %(levelname)s: %(message)s')
 
-projectname = 'ML-Project'
+projectname = 'ML_Project'
 
 list_of_files =[
     ".github/workflows/.gitkeep",

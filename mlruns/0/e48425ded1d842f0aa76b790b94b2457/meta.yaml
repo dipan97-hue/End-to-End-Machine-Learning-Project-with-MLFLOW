@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/exercises/Cold_Email_Generator/MLOPS/End-to-End-Machine-Learning-Project-with-MLFLOW/mlruns/0/e48425ded1d842f0aa76b790b94b2457/artifacts
+end_time: 1735591591886
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e48425ded1d842f0aa76b790b94b2457
+run_name: rumbling-foal-65
+run_uuid: e48425ded1d842f0aa76b790b94b2457
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735591584319
+status: 3
+tags: []
+user_id: USER

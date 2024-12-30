@@ -30,3 +30,12 @@ class ModelTrainerConfig:
     alpha : float
     l1_ratio : float
     target_column : str
+@dataclass(frozen=True)
+class ModelEvaluationConfig:
+    root_dir: Path
+    model_path : Path
+    test_path : Path
+    metrics_path : Path
+    all_params : dict
+    target_column : str
+    mlflow_uri : str

@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/exercises/Cold_Email_Generator/MLOPS/End-to-End-Machine-Learning-Project-with-MLFLOW/mlruns/0/225e5d0755fc4bd596bd3fb26add2c8e/artifacts
+end_time: 1735586752305
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 225e5d0755fc4bd596bd3fb26add2c8e
+run_name: illustrious-wasp-651
+run_uuid: 225e5d0755fc4bd596bd3fb26add2c8e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735586752181
+status: 4
+tags: []
+user_id: USER

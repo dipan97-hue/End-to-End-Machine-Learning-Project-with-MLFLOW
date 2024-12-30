@@ -16,35 +16,25 @@ This project demonstrates an end-to-end machine learning workflow using MLFLOW. 
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/End-to-End-Machine-Learning-Project-with-MLFLOW.git
+    git clone https://github.com/dipan97-hue/End-to-End-Machine-Learning-Project-with-MLFLOW 
     ```
-2. Navigate to the project directory:
-    ```sh
-    cd End-to-End-Machine-Learning-Project-with-MLFLOW
-    ```
-3. Install the required dependencies:
+2. Install the required dependencies:
     ```sh
     pip install -r requirements.txt
     ```
 
-## Usage
+### dagshub 
+[dagshub](https://dagshub.com)
+ ```sh
+import dagshub
+dagshub.init(repo_owner='dipan97-hue', repo_name='End-to-End-Machine-Learning-Project-with-MLFLOW', mlflow=True)
 
-1. Run the data preprocessing script:
-    ```sh
-    python preprocess.py
-    ```
-2. Train the model:
-    ```sh
-    python train.py
-    ```
-3. Tune hyperparameters:
-    ```sh
-    python tune.py
-    ```
-4. Deploy the model:
-    ```sh
-    python deploy.py
-    ```
+import mlflow
+with mlflow.start_run():
+  mlflow.log_param('parameter name', 'value')
+  mlflow.log_metric('metric name', 1)
+  
+```
 
 ## Contributing
 

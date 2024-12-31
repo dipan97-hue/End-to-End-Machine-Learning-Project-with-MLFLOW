@@ -15,8 +15,6 @@ This project is a complete implementation of an End-to-End Machine Learning Pipe
 
 ## Workflow Description 
 
-## Workflow Description 
-
 ![Workflow MLOPS](Workflow_MLOPS.png)
 
 ## Installation

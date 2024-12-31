@@ -501,3 +501,20 @@
 [2024-12-31 16:56:14,609: INFO: _internal : 127.0.0.1 - - [31/Dec/2024 16:56:14] "[36mGET /static/assets/img/form-v9.jpg HTTP/1.1[0m" 304 -]
 [2024-12-31 16:56:14,639: INFO: _internal : 127.0.0.1 - - [31/Dec/2024 16:56:14] "[33mGET /static/fonts/Nunito/Nunito-Bold.ttf HTTP/1.1[0m" 404 -]
 [2024-12-31 16:56:14,708: INFO: _internal : 127.0.0.1 - - [31/Dec/2024 16:56:14] "[36mGET /static/assets/favicon.ico HTTP/1.1[0m" 304 -]
+[2024-12-31 16:56:52,579: INFO: _internal : [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.0.5:8080]
+[2024-12-31 16:56:52,580: INFO: _internal : [33mPress CTRL+C to quit[0m]
+[2024-12-31 16:56:59,226: INFO: _internal : 127.0.0.1 - - [31/Dec/2024 16:56:59] "GET / HTTP/1.1" 200 -]
+[2024-12-31 16:56:59,710: INFO: _internal : 127.0.0.1 - - [31/Dec/2024 16:56:59] "[36mGET /static/css2/nunito-font.css HTTP/1.1[0m" 304 -]
+[2024-12-31 16:56:59,710: INFO: _internal : 127.0.0.1 - - [31/Dec/2024 16:56:59] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -]
+[2024-12-31 16:56:59,719: INFO: _internal : 127.0.0.1 - - [31/Dec/2024 16:56:59] "[36mGET /static/css2/style.css HTTP/1.1[0m" 304 -]
+[2024-12-31 16:56:59,719: INFO: _internal : 127.0.0.1 - - [31/Dec/2024 16:56:59] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -]
+[2024-12-31 16:56:59,741: INFO: _internal : 127.0.0.1 - - [31/Dec/2024 16:56:59] "[33mGET /static/assets/img/wine.jpg HTTP/1.1[0m" 404 -]
+[2024-12-31 16:56:59,806: INFO: _internal : 127.0.0.1 - - [31/Dec/2024 16:56:59] "[36mGET /static/assets/img/form-v9.jpg HTTP/1.1[0m" 304 -]
+[2024-12-31 16:56:59,826: INFO: _internal : 127.0.0.1 - - [31/Dec/2024 16:56:59] "[33mGET /static/fonts/Nunito/Nunito-Bold.ttf HTTP/1.1[0m" 404 -]
+[2024-12-31 16:57:33,471: INFO: _internal : 127.0.0.1 - - [31/Dec/2024 16:57:33] "POST /predict HTTP/1.1" 200 -]
+[2024-12-31 16:57:33,535: INFO: _internal : 127.0.0.1 - - [31/Dec/2024 16:57:33] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -]
+[2024-12-31 16:57:33,540: INFO: _internal : 127.0.0.1 - - [31/Dec/2024 16:57:33] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -]
+[2024-12-31 16:57:33,574: INFO: _internal : 127.0.0.1 - - [31/Dec/2024 16:57:33] "[33mGET /static/assets/img/wine.gif HTTP/1.1[0m" 404 -]

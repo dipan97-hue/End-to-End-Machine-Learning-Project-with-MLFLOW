@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/exercises/Cold_Email_Generator/MLOPS/End-to-End-Machine-Learning-Project-with-MLFLOW/mlruns/0/116be1d9f9834a25bc85f9da317b025d/artifacts
+end_time: 1735658845305
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 116be1d9f9834a25bc85f9da317b025d
+run_name: enthused-goose-800
+run_uuid: 116be1d9f9834a25bc85f9da317b025d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735658834685
+status: 3
+tags: []
+user_id: USER

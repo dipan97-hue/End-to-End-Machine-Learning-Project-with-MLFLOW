@@ -2,26 +2,49 @@
 
 ## Overview
 
-This project demonstrates an end-to-end machine learning workflow using MLFLOW. It covers data preprocessing, model training, hyperparameter tuning, and model deployment.
+This project is a complete implementation of an End-to-End Machine Learning Pipeline with MLOps principles, covering data ingestion, validation, transformation, model training, and deployment on AWS EC2 with App Runner. The primary goal is to build, train, and deploy a robust ML model while adhering to MLOps best practices.
+
+
 
 ## Features
 
-- Data preprocessing and feature engineering
-- Model training and evaluation
-- Hyperparameter tuning
-- Model versioning and tracking with MLFLOW
-- Model deployment
+- Scalable Architecture: Structured project organization for easy scalability and maintenance.
+- MLOps Integration: Incorporates tools for model tracking and deployment.
+- Automation: Automated pipelines for data handling and model deployment.
+- Deployment: Deployed on AWS EC2 with App Runner for production-level serving.
+
+## Workflow Description 
+
+## Workflow Description 
+
+![Workflow MLOPS](Workflow_MLOPS.png)
 
 ## Installation
 
 1. Clone the repository:
     ```sh
     git clone https://github.com/dipan97-hue/End-to-End-Machine-Learning-Project-with-MLFLOW 
+  
     ```
-2. Install the required dependencies:
+2. Set up Virtual Environment:
+    ```sh
+    python -m venv venv
+    .\venv\Scipts\activate
+
+    ```
+3. Install the required dependencies:
     ```sh
     pip install -r requirements.txt
     ```
+4. Run the program:
+    ```sh
+    python main.py
+    ```
+5. Run the Webapp and test yourself:
+    ```sh
+    python app.py
+    ```
+
 
 ### dagshub 
 [dagshub](https://dagshub.com)

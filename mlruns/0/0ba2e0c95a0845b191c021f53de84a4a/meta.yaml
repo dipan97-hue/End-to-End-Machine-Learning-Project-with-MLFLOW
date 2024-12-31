@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/exercises/Cold_Email_Generator/MLOPS/End-to-End-Machine-Learning-Project-with-MLFLOW/mlruns/0/0ba2e0c95a0845b191c021f53de84a4a/artifacts
+end_time: 1735642457355
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0ba2e0c95a0845b191c021f53de84a4a
+run_name: bouncy-cod-597
+run_uuid: 0ba2e0c95a0845b191c021f53de84a4a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735642445818
+status: 3
+tags: []
+user_id: dipan97-hue
